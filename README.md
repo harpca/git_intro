@@ -1,1 +1,2 @@
-"Caroline Harp" 
+Caroline Harp
+harpca@oregonstate.edu
